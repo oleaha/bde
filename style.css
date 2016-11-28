@@ -1,0 +1,14 @@
+body {
+  background-color: #000000;
+  height: 100%;
+}
+
+.container-table {
+  display: table;
+  height: 100%
+}
+
+.vertical-center-row {
+  display: table-cell;
+  vertical-align: middle;
+}
